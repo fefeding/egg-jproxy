@@ -1,6 +1,6 @@
 'use strict';
 
-exports.middleware = [ 'jproxy' ];
+//exports.middleware = [ 'jproxy' ];
 /**
  * egg-jproxy default config
  * @member Config#jproxy
